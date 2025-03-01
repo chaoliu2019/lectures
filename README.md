@@ -1,4 +1,4 @@
-  <h1>Equations of Mathematical Physics and Special Functions (MAT0701)</h1>
+   <h1>Equations of Mathematical Physics and Special Functions (MAT0701)</h1>
     <p><strong>Instructor:</strong> Chao Liu</p>
     <p><strong>Affiliation:</strong> Center for Mathematical Sciences and School of Mathematics and Statistics, Huazhong University of Science and Technology</p>
     <p><strong>Address:</strong> 1037 Luoyu Road, Wuhan, Hubei Province, China</p>
@@ -24,7 +24,7 @@
 
     <div class="section">
         <h2>Course Description</h2>
-        <p>This course covers fundamental equations of mathematical physics, including Laplace’s equation, the wave equation, and the heat equation. It also explores special functions that commonly arise in these contexts.</p>
+        <p>This course covers fundamental equations of mathematical physics, including Laplace’s equation, the wave equation, and the heat equation. It also explores special functions that commonly arise in these contexts. <a href="https://smartcourse.hust.edu.cn/mooc-ans/course/17310000017985.html">Viseos and materials/a></p>
     </div>
 
     <div class="section">
@@ -46,17 +46,17 @@
     <div class="section">
         <h2>Assignments</h2>
         <ul>
-            <li><a href="#">Homework 1</a></li>
-            <li><a href="#">Homework 2</a></li>
-            <li><a href="#">Homework 3</a></li>
+            <li><a href="#">Homework</a></li>
         </ul>
     </div>
 
     <div class="section">
         <h2>References</h2>
         <ul>
-            <li>"Methods of Mathematical Physics" by Courant and Hilbert</li>
-            <li>"Mathematical Methods for Physicists" by Arfken and Weber</li>
+            <li>"Methods of Mathematical Physics I \& II" by Courant and Hilbert</li>
+            <li>"Mathematical Physics Equations and Special Functions" (3rd Edition), Huazhong University of Science and Technology, Higher Education Press, 2019.</li>
+            <li>"Mathematical Physics Methods", Wu Chongshi.</li>   
+            <li>"Mathematical Physics Methods", Gu Qiao.</li>   
         </ul>
     </div>
 
