@@ -1,4 +1,4 @@
- <h1>Equations of Mathematical Physics and Special Functions (MAT0701)</h1>
+  <h1>Equations of Mathematical Physics and Special Functions (MAT0701)</h1>
     <p><strong>Instructor:</strong> Chao Liu</p>
     <p><strong>Affiliation:</strong> Center for Mathematical Sciences and School of Mathematics and Statistics, Huazhong University of Science and Technology</p>
     <p><strong>Address:</strong> 1037 Luoyu Road, Wuhan, Hubei Province, China</p>
@@ -30,7 +30,7 @@
     <div class="section">
         <h2>Lecture Schedule</h2>
         <ul>
-            <li>Week 1: Formation of three types of equations and boundary conditions; Review of Fourier series.</li>
+            <li>Week 1: Derivations of three types of equations and boundary conditions; Review of Fourier series.<a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week1a.pdf">Notes</a></li>
             <li>Week 2: Free vibration of a bounded string; Heat conduction in a finite rod.</li>
             <li>Week 3: Boundary value problems of the two-dimensional Laplace equation; Introduction to nonhomogeneous equations.</li>
             <li>Week 4: Methods for solving nonhomogeneous equations; Solving problems with nonhomogeneous boundary conditions; Introduction to eigenvalue problems.</li>
