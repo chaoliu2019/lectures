@@ -28,10 +28,10 @@
     </div>
 
     <div class="section">
-        <h2>Lecture Schedule</h2>
+        <h2>Lecture Schedule and Notes</h2>
         <ul>
-            <li>Week 1: Derivations of three types of equations and boundary conditions; Review of Fourier series.<a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week1a.pdf">Notes</a></li>
-            <li>Week 2: Free vibration of a bounded string; Heat conduction in a finite rod.</li>
+            <li>Week 1: Derivations of three types of equations and boundary conditions; Review of Fourier series.<a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week1a.pdf">Week 1-1</a>, <a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week1b.pdf">Week 1-2</a></li>
+            <li>Week 2: Free vibration of a bounded string; Heat conduction in a finite rod.<a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week2a.pdf">Week 2-1</a>, <a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week2b.pdf">Week 2-2</a></li>
             <li>Week 3: Boundary value problems of the two-dimensional Laplace equation; Introduction to nonhomogeneous equations.</li>
             <li>Week 4: Methods for solving nonhomogeneous equations; Solving problems with nonhomogeneous boundary conditions; Introduction to eigenvalue problems.</li>
             <li>Week 5: D'Alembert’s formula and homogenization; The physical meaning of solutions to high-dimensional wave equation Cauchy problems.</li>
