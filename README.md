@@ -1,4 +1,4 @@
-   <h1>Equations of Mathematical Physics and Special Functions (MAT0701)</h1>
+  <h1>Equations of Mathematical Physics and Special Functions (MAT0701)</h1>
     <p><strong>Instructor:</strong> Chao Liu</p>
     <p><strong>Affiliation:</strong> Center for Mathematical Sciences and School of Mathematics and Statistics, Huazhong University of Science and Technology</p>
     <p><strong>Address:</strong> 1037 Luoyu Road, Wuhan, Hubei Province, China</p>
@@ -24,7 +24,7 @@
 
     <div class="section">
         <h2>Course Description</h2>
-        <p>This course covers fundamental equations of mathematical physics, including Laplace’s equation, the wave equation, and the heat equation. It also explores special functions that commonly arise in these contexts. <a href="https://smartcourse.hust.edu.cn/mooc-ans/course/17310000017985.html">Viseos and materials/a></p>
+        <p>This course covers fundamental equations of mathematical physics, including Laplace’s equation, the wave equation, and the heat equation. It also explores special functions that commonly arise in these contexts. <a href="https://smartcourse.hust.edu.cn/mooc-ans/course/17310000017985.html">Viseos and materials</a></p>
     </div>
 
     <div class="section">
