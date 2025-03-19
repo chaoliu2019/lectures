@@ -9,11 +9,6 @@
         <label for="year-select">Select Year:</label>
         <select id="year-select" onchange="changeYear()">
             <option value="2025">2025</option>
-            <option value="2024">2024</option>
-            <option value="2023">2023</option>
-            <option value="2022">2022</option>
-            <option value="2021">2021</option>
-            <option value="2020">2020</option>
         </select>
     </div>
 
@@ -32,9 +27,9 @@
         <ul>
             <li>Week 1: Derivations of three types of equations and boundary conditions; Review of Fourier series.<a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week1a.pdf">Week 1-1</a>, <a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week1b.pdf">Week 1-2</a></li>
             <li>Week 2: Free vibration of a bounded string; Heat conduction in a finite rod.<a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week2a.pdf">Week 2-1</a>, <a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week2b.pdf">Week 2-2</a></li>
-            <li>Week 3: Boundary value problems of the two-dimensional Laplace equation; Introduction to nonhomogeneous equations.</li>
-            <li>Week 4: Methods for solving nonhomogeneous equations; Solving problems with nonhomogeneous boundary conditions; Introduction to eigenvalue problems.</li>
-            <li>Week 5: D'Alembert’s formula and homogenization; The physical meaning of solutions to high-dimensional wave equation Cauchy problems.</li>
+            <li>Week 3: Boundary value problems of the two-dimensional Laplace equation; Introduction to nonhomogeneous equations.<a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week3a.pdf">Week 3-1</a>, <a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week3b.pdf">Week 3-2</a></li>
+            <li>Week 4: Methods for solving nonhomogeneous equations; Solving problems with nonhomogeneous boundary conditions; Introduction to eigenvalue problems.<a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week4a.pdf">Week 4-1</a>, <a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week4b.pdf">Week 4-2</a></li>
+            <li>Week 5: D'Alembert’s formula and homogenization; The physical meaning of solutions to high-dimensional wave equation Cauchy problems.<a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week5a.pdf">Week 5-1</a>, <a href="https://github.com/chaoliu2019/documents/blob/PDElec/Week5b.pdf">Week 5-2</a></li>
             <li>Week 6: Integral transform methods; Exercise session.</li>
             <li>Week 7: Green’s formula and applications; Green’s functions.</li>
             <li>Week 8: Applications of Green’s functions; Solutions to the Poisson equation.</li>
